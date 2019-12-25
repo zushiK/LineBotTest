@@ -1,0 +1,18 @@
+{
+    "name": "sai/moon-line",
+    "description": "Library for linking LINE API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zushi",
+            "email": "k.kawamura@sai.co.jp"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.28",
+        "linecorp/line-bot-sdk": "^4.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "6.*"
+    }
+}

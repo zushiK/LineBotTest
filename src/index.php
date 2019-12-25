@@ -31,3 +31,4 @@ if(isset($_SERVER["HTTP_".HTTPHeader::LINE_SIGNATURE])){
         $Bot->replyMessage($event->getReplyToken(), $SendMessage);
     }
 }
+

@@ -31,6 +31,7 @@ class ComposerStaticInita001422412a40c842bc164e1a6587036
         'P' => 
         array (
             'Prophecy\\' => 9,
+            'PhpOption\\' => 10,
         ),
         'L' => 
         array (
@@ -38,6 +39,7 @@ class ComposerStaticInita001422412a40c842bc164e1a6587036
         ),
         'D' => 
         array (
+            'Dotenv\\' => 7,
             'Doctrine\\Instantiator\\' => 22,
             'DeepCopy\\' => 9,
         ),
@@ -78,9 +80,17 @@ class ComposerStaticInita001422412a40c842bc164e1a6587036
         array (
             0 => __DIR__ . '/..' . '/phpspec/prophecy/src/Prophecy',
         ),
+        'PhpOption\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpoption/phpoption/src/PhpOption',
+        ),
         'LINE\\' => 
         array (
             0 => __DIR__ . '/..' . '/linecorp/line-bot-sdk/src',
+        ),
+        'Dotenv\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/vlucas/phpdotenv/src',
         ),
         'Doctrine\\Instantiator\\' => 
         array (

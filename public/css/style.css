@@ -1,0 +1,12 @@
+.btn{
+    color:#FFFFFF;
+    background-color: #00C300;
+    border:none;
+    border-radius: 4px;
+}
+.btn:hover{
+    background-color: #00E000;
+}
+.btn:focus{
+    background-color: #00B300;
+}
